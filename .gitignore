@@ -1,2 +1,11 @@
 __pycache__/*
 Module/__pycache__/*
+data/US_HIST_FIRE_PERIM_2017_DD83.cpg
+data/US_HIST_FIRE_PERIM_2017_DD83.dbf
+data/US_HIST_FIRE_PERIM_2017_DD83.prj
+data/US_HIST_FIRE_PERIM_2017_DD83.shp
+data/US_HIST_FIRE_PERIM_2017_DD83.shp.xml
+data/US_HIST_FIRE_PERIM_2017_DD83.shx
+src/__pycache__/wildfire.cpython-313.pyc
+MERRA2_100.inst1_2d_lfo_Nx.19810202.nc4
+output/1981-02-02.gif
